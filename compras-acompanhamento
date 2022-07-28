@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: plataforma-acompanhamento-compras
+  description: Plataforma de acompanhamento de compras
+spec:
+  owner: seint
+  domain: compras-publicas
